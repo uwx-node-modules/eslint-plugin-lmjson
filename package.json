@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-yaml",
   "description": "Lint YAML files",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "author": "uwx / Peter deHaan",
   "bugs": {
     "url": "https://github.com/uwx/eslint-plugin-yaml/issues"

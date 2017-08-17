@@ -1,13 +1,13 @@
 {
-  "name": "eslint-plugin-yaml",
-  "description": "Lint YAML files",
+  "name": "eslint-plugin-lmjson",
+  "description": "Lint LMJSON files",
   "version": "2.1.0",
   "author": "uwx / Peter deHaan",
   "bugs": {
-    "url": "https://github.com/uwx/eslint-plugin-yaml/issues"
+    "url": "https://github.com/uwz/eslint-plugin-lmjson/issues"
   },
   "dependencies": {
-    "js-yaml": "3.9.1"
+    "lmjson": "uwx/lmjson"
   },
   "engines": {
     "node": ">=0.12.0"
@@ -16,14 +16,14 @@
     "eslint",
     "eslintplugin",
     "eslint-plugin",
-    "yaml",
-    "eslint-plugin-yaml"
+    "lmjson",
+    "eslint-plugin-lmjson"
   ],
   "license": "ISC",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwx/eslint-plugin-yaml"
+    "url": "https://github.com/uwz/eslint-plugin-lmjson"
   },
-  "url": "https://github.com/uwx/eslint-plugin-yaml"
+  "url": "https://github.com/uwz/eslint-plugin-lmjson"
 }

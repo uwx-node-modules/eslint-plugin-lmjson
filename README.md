@@ -1,5 +1,7 @@
 # eslint-plugin-lmjson
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/uwx/eslint-plugin-lmjson.svg)](https://greenkeeper.io/)
+
 Lint LMJSON files
 
 ## Installation

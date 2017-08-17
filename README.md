@@ -20,7 +20,7 @@ $ npm install eslint-plugin-lmjson --save-dev
 
 ## Usage
 
-Add `yaml` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `lmjson` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
